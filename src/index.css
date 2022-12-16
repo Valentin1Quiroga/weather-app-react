@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+}
+body{
+  background-image: url(/src/assets/espacio-con-estrellas_1800x800_xtrafondos.com.jpg);
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+.error-page{
+  background-image: url(/src/assets/5312f22d981305e023cee992b367813c.jpg);
+}
+.test{
+background: linear-gradient(20deg, rgb(255, 128, 0) 0%, rgb(144, 24, 6) 49%, rgba(13,17,23,1) 100%);
+}
